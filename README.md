@@ -45,21 +45,6 @@ dot sync
 
 We welcome community pull requests! Specifically looking for expansion on the Windows PowerShell symlink support logic. Please read our `CONTRIBUTING.md` before submitting code.
 
----
-
-## 🏢 About Stackaura
-
-Dotfiles Manager is a tool brought to you by **Stackaura**. We specialize in providing top-tier digital solutions, focusing on cutting-edge web development, premium branding, and scalable software architecture designed to elevate your business.
-
-**Ready to streamline your enterprise infrastructure?**
-> Visit us at [**Stackaura.com**](https://www.stackaura.com/) to learn more about our DevOps, tooling, and consulting services.
-
-<div align="center">
-  <a href="https://www.stackaura.com/">
-    <img src="https://img.shields.io/badge/Visit-Stackaura-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Stackaura" />
-  </a>
-</div>
-
 
 ---
 
@@ -78,3 +63,4 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
